@@ -17,3 +17,7 @@
 
 Route::get('/', function() {
 });
+
+Route::post('/task', function(Request $request) {
+
+});
